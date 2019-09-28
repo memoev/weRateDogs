@@ -1,6 +1,7 @@
 # We Rate Dogs API
+[![Build Status](https://build.spring.io/plugins/servlet/wittified/build-status/SPR-PUBM)](https://build.spring.io/browse/SPR) 
 
-This project was generated with [Maven](https://maven.apache.org/what-is-maven.html) and the Spring Initializr v2.1.8 RELEASE. Backend java web service that has exposes GET and Non-GET APIs.
+Backend java web service that has exposes GET and Non-GET APIs. Generated with [Maven](https://maven.apache.org/what-is-maven.html) and the [Spring](https://spring.io) Java Framework.
 
 ## Apache Maven and Spring
 
