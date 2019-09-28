@@ -90,5 +90,8 @@ This post request can be runned directly from the HAL UI `index.html` when click
 
 Here's a couple of screenshot showing additional testing runned on the POSTMAN client:
 
+**GET API**
 ![Postman_GET](images/postmanGET_screenshot.png)
+
+**POST API**
 ![Postman_POST](images/postmanPOST_screenshot.png)
