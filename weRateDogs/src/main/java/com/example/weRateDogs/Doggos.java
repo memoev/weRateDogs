@@ -1,6 +1,13 @@
 package com.example.weRateDogs;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
 public class Doggos {
+	
+	@Id
+	private Long id;
 	
 	private String image;
 	
@@ -22,6 +29,4 @@ public class Doggos {
 		this.rating = rating;
 	}
 	
-	
-
 }
