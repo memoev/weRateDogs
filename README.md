@@ -86,7 +86,7 @@ This post request can be runned directly from the HAL UI `index.html` when click
 ![HAL_User_Interface_POST](images/HAL_POST_screenshot.png)
 
 
-## Additional testing on Postman
+## Additional Testing on Postman
 
 Here's a couple of screenshot showing additional testing runned on the POSTMAN client:
 
