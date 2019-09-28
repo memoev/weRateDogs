@@ -1,5 +1,7 @@
 package com.example.weRateDogs;
 
-public interface CRUD {
+import org.springframework.data.repository.CrudRepository;
+
+public interface CRUD extends CrudRepository<Doggos, Long>{
 
 }
